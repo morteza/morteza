@@ -27,6 +27,7 @@ I'm *Morteza* (he/him), a Postdoctoral Researcher at the University of Luxembour
   - Thesis: Neural Correlates of Agency Attribution in Posthypnotic Suggestion, Explicit Instruction, and Free Choice: An EEG/ERP Study.
 
 - **BSc in Computer Engineering**, Tehran Polytechnic, 2008
+  - Thesis: Design and Implementation of an Anytime Operating System for Embedded Applications.
 
 ## 🔬 Research Interests
 

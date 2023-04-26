@@ -1,4 +1,4 @@
-### Morteza Ansarinia
+## Morteza Ansarinia
 
 <!--
 **morteza/morteza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm *Morteza* (he/him), a Postdoctoral Researcher at the University of Luxembourg. I specialize in Computational Neuroscience and Software Engineering, and enjoy working on projects that have an impact on aligning AI to human cognition.
 
-#### 🎓 Education
+### 🎓 Education
 
 - **PhD in Behavioral and Cognitive Sciences**, Max Planck Institute for Human Cognitive and Brain Sciences (Leipzig, Germany) and University of Luxembourg (Belval, Luxembourg), 2023
   - Thesis: Towards a Computational Model of General Cognitive Control Using Artificial Intelligence, Experimental Psychology, and Cognitive Neuroscience.
@@ -29,7 +29,7 @@ I'm *Morteza* (he/him), a Postdoctoral Researcher at the University of Luxembour
 
 - **BSc in Computer Engineering**, Tehran Polytechnic, 2008
 
-#### 🔬 Research Interests
+### 🔬 Research Interests
 
 - Behavioral cloning and alignment
 - Computational cognitive neuroscience
@@ -38,7 +38,7 @@ I'm *Morteza* (he/him), a Postdoctoral Researcher at the University of Luxembour
 
 _A complete list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=GVsyMf8AAAAJ&hl=en)._
 
-#### 📬 Get in Touch
+### 📬 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/morteza-ansarinia/)
 - [Twitter](https://twitter.com/mortynia)

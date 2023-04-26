@@ -1,4 +1,4 @@
-### Hi there 👋
+### Morteza Ansarinia
 
 <!--
 **morteza/morteza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 -->
 
-# Morteza Ansarinia
 
 I'm *Morteza* (he/him), a Postdoctoral Researcher at the University of Luxembourg. I specialize in Computational Neuroscience and Software Engineering, and enjoy working on projects that have an impact on aligning AI to human cognition.
 

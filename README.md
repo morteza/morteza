@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm *Morteza* (he/him), a Postdoctoral Researcher at the University of Luxembourg. I specialize in Computational Neuroscience and Software Engineering, and enjoy working on projects that have an impact on aligning AI to human cognition.
+I'm *Morteza* (he/him), a Postdoctoral Researcher at the University of Luxembourg. I specialize in Computational Neuroscience and Software Engineering, and enjoy working on projects that have an impact on aligning AI to human cognition (or the other way around).
 
 ## 🎓 Education
 

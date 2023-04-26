@@ -35,10 +35,10 @@ I'm *Morteza* (he/him), a Postdoctoral Researcher at the University of Luxembour
 - Natural language processing, ontologies, and knowledge engineering
 - Human-like cognitive control
 
-_A complete list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=GVsyMf8AAAAJ&hl=en)._
 
 ## 📬 Get in Touch
 
+- [Google Scholar](https://scholar.google.com/citations?user=GVsyMf8AAAAJ&hl=en)
 - [LinkedIn](https://www.linkedin.com/in/morteza-ansarinia/)
 - [Twitter](https://twitter.com/mortynia)
 - [Email](mailto:my_last_name@me.com)

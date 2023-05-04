@@ -1,1 +1,1 @@
-Sitemap: https://morteza.github.io/sitemap.xml
+Sitemap: https://morteza.github.io/morteza/sitemap.xml

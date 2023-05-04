@@ -1,3 +1,4 @@
 - source: project
   gh-pages:
-      - url: "https://morteza.github.io"
+      - id: gh-pages-0001
+        url: "https://morteza.github.io"

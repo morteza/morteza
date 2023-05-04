@@ -1,4 +1,0 @@
-- source: project
-  gh-pages:
-      - id: gh-pages-0001
-        url: "https://morteza.github.io"

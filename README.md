@@ -1,20 +1,3 @@
----
-title: "Morteza Ansarinia"
-image: https://avatars.githubusercontent.com/u/222198?v=4
-about:
-  template: jolla
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
-
----
 
 <!--
 **morteza/morteza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

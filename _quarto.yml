@@ -1,11 +1,14 @@
 project:
   type: website
 
+execute:
+  freeze: true
+
 website:
   title: "Morteza Ansarinia"
   navbar:
     right:
-      - README.md
+      - about.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter

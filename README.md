@@ -20,13 +20,13 @@ I'm *Morteza* (he/him), a Postdoctoral Researcher at the University of Luxembour
 
 ## 🎓 Education
 
-- **PhD in Behavioral and Cognitive Sciences**, Max Planck Institute for Human Cognitive and Brain Sciences (Leipzig, Germany) and University of Luxembourg (Belval, Luxembourg), 2023
+- **PhD in Behavioral and Cognitive Sciences**, Max Planck Institute for Human Cognitive and Brain Sciences (Leipzig, Germany) and University of Luxembourg (Belval, Luxembourg), *2023*
   - Thesis: Towards a Computational Model of General Cognitive Control Using Artificial Intelligence, Experimental Psychology, and Cognitive Neuroscience.
 
-- **MSc in Cognitive Psychology**, Institute for Cognitive Science Studies (Tehran, Iran), 2017
+- **MSc in Cognitive Psychology**, Institute for Cognitive Science Studies (Tehran, Iran), *2017*
   - Thesis: Neural Correlates of Agency Attribution in Posthypnotic Suggestion, Explicit Instruction, and Free Choice: An EEG/ERP Study.
 
-- **BSc in Computer Engineering**, Tehran Polytechnic, 2008
+- **BSc in Computer Engineering**, Tehran Polytechnic, *2008*
   - Thesis: Design and Implementation of an Anytime Operating System for Embedded Applications.
 
 ## 🔬 Research Interests

@@ -33,6 +33,7 @@ I'm *Morteza* (he/him), a Postdoctoral Researcher at the University of Luxembour
 
 - Behavioral cloning and alignment
 - Computational cognitive neuroscience
+- Resting-state fMRI/EEG
 - Natural language processing, ontologies, and knowledge engineering
 - Human-like cognitive control
 

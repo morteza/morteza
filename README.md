@@ -41,9 +41,9 @@ I'm *Morteza* (he/him), a Postdoctoral Researcher at the University of Luxembour
 ## 📬 Get in Touch
 
 - [Google Scholar](https://scholar.google.com/citations?user=GVsyMf8AAAAJ&hl=en)
-- [LinkedIn](https://www.linkedin.com/in/morteza-ansarinia/)
 - [Twitter](https://twitter.com/mortynia)
 - [Email](mailto:my_last_name@me.com)
+<!-- - [LinkedIn](https://www.linkedin.com/in/morteza-ansarinia/) -->
 
 _If you'd like to collaborate on a project or have any questions, feel free to reach out!_
 

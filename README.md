@@ -31,11 +31,11 @@ I'm *Morteza* (he/him), a Postdoctoral Researcher at the University of Luxembour
 
 ## 🔬 Research Interests
 
-- Behavioral cloning and alignment
 - Computational cognitive neuroscience
+- Behavioral cloning and alignment
+- Human-like cognitive control
 - Resting-state fMRI/EEG
 - Natural language processing, ontologies, and knowledge engineering
-- Human-like cognitive control
 
 
 ## 📬 Get in Touch

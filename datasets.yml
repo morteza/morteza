@@ -1,0 +1,3 @@
+- name: P500-L1m
+  description: Full P500 dataset
+  url: https://edu.lu/test

@@ -1,28 +1,10 @@
-
-<!--
-**morteza/morteza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
-
 I'm *Morteza* (he/him), a Postdoctoral Researcher at the University of Luxembourg. I specialize in Computational Neuroscience and Computer Engineering, and enjoy working on projects that have an impact on aligning AI to human cognition (or the other way around).
 
 ## 🎓 Education
 
 - **PhD in Behavioral and Cognitive Sciences**, Max Planck Institute for Human Cognitive and Brain Sciences (Leipzig, Germany) and University of Luxembourg (Belval, Luxembourg), *2023*
 
-  - Thesis: Towards a Computational Model of General Cognitive Control Using Artificial Intelligence, Experimental Psychology, and Cognitive Neuroscience. [pdf](https://hdl.handle.net/10993/54481) · [a short video of my speech at some thesis award ceremony (starts at 53:00)](https://www.youtube.com/watch?v=S6zIn1HjJfk&t=3180s)
+  - Thesis: Towards a Computational Model of General Cognitive Control Using Artificial Intelligence, Experimental Psychology, and Cognitive Neuroscience. [pdf](https://hdl.handle.net/10993/54481) · [repo](https://github.com/morteza/thesis) · [a short video of my speech at some thesis award ceremony (starts at 53:00)](https://www.youtube.com/watch?v=S6zIn1HjJfk&t=3180s)
 
 - **MSc in Cognitive Psychology**, Institute for Cognitive Science Studies (Tehran, Iran), *2017*
   - Thesis: Neural Correlates of Agency Attribution in Posthypnotic Suggestion, Explicit Instruction, and Free Choice: An EEG/ERP Study.

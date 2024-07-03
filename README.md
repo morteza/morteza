@@ -2,7 +2,7 @@ I'm *Morteza* (he/him), a researcher at the University of Luxembourg. I speciali
 
 ## 🎓 Education
 
-- **PhD in Behavioral and Cognitive Sciences**, Max Planck Institute for Human Cognitive and Brain Sciences (Leipzig, Germany) and University of Luxembourg (Belval, Luxembourg), *2023*
+- **PhD in Behavioral and Cognitive Sciences**, Max Planck Institute for Human Cognitive and Brain Sciences (Leipzig, Germany) and University of Luxembourg (Belval, Luxembourg), *January 2023*
 
   - Thesis: Towards a Computational Model of General Cognitive Control Using Artificial Intelligence, Experimental Psychology, and Cognitive Neuroscience. [pdf](https://hdl.handle.net/10993/54481) · [repo](https://github.com/morteza/thesis) · [a short video of my speech at some thesis award ceremony (starts at 53:00)](https://www.youtube.com/watch?v=S6zIn1HjJfk&t=3180s)
 

@@ -1,4 +1,4 @@
-I'm *Morteza* (he/him), a researcher at the University of Luxembourg. I specialize in Computational Neuroscience and Computer Engineering, and enjoy working on projects that have an impact on aligning AI to human cognition (or the other way around).
+I'm *Morteza* (he/him), a postdoc researcher at the University of Luxembourg. I specialize in Computational Neuroscience and Computer Engineering, and enjoy working on projects that have an impact on aligning AI to human cognition (or the other way around).
 
 ## 🎓 Education
 

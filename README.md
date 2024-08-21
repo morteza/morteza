@@ -1,16 +1,4 @@
-I'm *Morteza* (he/him), a postdoc researcher at the University of Luxembourg. I specialize in computational neuroscience and computer engineering, and enjoy working on projects that have an impact on aligning AI to human cognition (or the other way around).
-
-## 🎓 Education
-
-- **PhD in Behavioral and Cognitive Sciences**, Max Planck Institute for Human Cognitive and Brain Sciences (Leipzig, Germany) and University of Luxembourg (Belval, Luxembourg), *January 2023*
-
-  - Thesis: Towards a Computational Model of General Cognitive Control Using Artificial Intelligence, Experimental Psychology, and Cognitive Neuroscience. [pdf](https://hdl.handle.net/10993/54481) · [repo](https://github.com/morteza/thesis) · [a short video of my speech at some thesis award ceremony (starts at 53:00)](https://www.youtube.com/watch?v=S6zIn1HjJfk&t=3180s)
-
-- **MSc in Cognitive Psychology**, Institute for Cognitive Science Studies (Tehran, Iran), *2017*
-  - Thesis: Neural Correlates of Agency Attribution in Posthypnotic Suggestion, Explicit Instruction, and Free Choice: An EEG/ERP Study.
-
-- **BSc in Computer Engineering**, Tehran Polytechnic, *2008*
-  - Thesis: Design and Implementation of an Anytime Operating System for Embedded Applications.
+I'm *Morteza* (he/him), a postdoc researcher at the University of Luxembourg. I specialize in computational neuroscience and computer engineering, and enjoy working on projects that have an impact on aligning AI to human cognition (or the other way around). I received my PhD in Behavioral and Cognitive Sciences from Max Planck Institute for Human Cognitive and Brain Sciences (Leipzig, Germany) and University of Luxembourg (Belval, Luxembourg) in January 2023. My thesis, *"Towards a Computational Model of General Cognitive Control Using Artificial Intelligence, Experimental Psychology, and Cognitive Neuroscience"*, explores interdiciplinary methods to improve our understanding of cognitive control ([pdf](https://hdl.handle.net/10993/54481) · [repo](https://github.com/morteza/thesis) · [a short video of my speech at some thesis award ceremony, starting at 53:00](https://www.youtube.com/watch?v=S6zIn1HjJfk&t=3180s)).
 
 ## 🔬 Research Interests
 

@@ -2,12 +2,13 @@ I'm *Morteza* (he/him), currently a researcher at the University of Luxembourg. 
 
 ## 🔬 Research Interests
 
+I'm currently developing tools for automated scientific workflows and large-scale data lakehouses, specifically designed to support multimodal study of neural and behavioral data. My primary interest is resting-state brain—-when the brain is not engaged in any specific cognitive task.
+
 - Human-like cognitive control
 - Resting-state fMRI/EEG
 - Large-scale computational cognitive models
 - Behavioral cloning and alignment
 - Natural language processing, ontologies, and knowledge engineering
-
 
 <!--
 
